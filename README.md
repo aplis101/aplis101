@@ -47,16 +47,6 @@ I bridge the gap between business requirements and modern software systems. With
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://ghchart.rshah.org/38B2AC/aplis101" alt="aplis101's GitHub Contributions" />
-</p>
-
-### ⚡ Recent Activity
-<!-- START_SECTION:activity -->
-<!-- END_SECTION:activity -->
-
----
 <p align="center">
   <i>"Simplicity is the ultimate sophistication."</i>
 </p>
