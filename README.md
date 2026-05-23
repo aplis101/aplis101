@@ -81,13 +81,20 @@ A curated collection of technologies I work with, styled with their official bra
 ---
 
 ### 📊 GitHub Analytics
-<div align="center">
-
-| | |
-| --- | --- |
-| [![aplis101's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aplis101&show_icons=true&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![aplis101's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aplis101&layout=compact&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
-
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=aplis101&show_icons=true&theme=gotham&hide_border=true" alt="aplis101's GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aplis101&layout=compact&theme=gotham&hide_border=true" alt="aplis101's Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
