@@ -99,18 +99,29 @@ A curated collection of technologies I work with, styled with their official bra
 
 ---
 
-### 📊 GitHub Analytics
-<table align="center">
+### 📊 GitHub Contributions
+<p align="center">
+  <img src="https://ghchart.rshah.org/38B2AC/aplis101" alt="aplis101's GitHub Contributions" />
+</p>
+
+### 🎯 Enterprise Development & Focus
+<table align="center" width="100%">
   <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=aplis101&show_icons=true&theme=gotham&hide_border=true&cache_id=2" alt="aplis101's GitHub Stats" />
-      </a>
+    <td width="50%" valign="top">
+      <h4>💻 Technical Focus</h4>
+      <ul>
+        <li><b>Web Development:</b> Designing highly responsive web applications using Next.js, React, TypeScript, and Tailwind CSS.</li>
+        <li><b>Mobile Applications:</b> Building beautiful, native-performance mobile experiences with Flutter & Dart.</li>
+        <li><b>AI Systems:</b> Integrating state-of-the-art Generative AI models and orchestrating autonomous AI Agents.</li>
+      </ul>
     </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=aplis101&layout=compact&theme=gotham&hide_border=true&cache_id=2" alt="aplis101's Top Languages" />
-      </a>
+    <td width="50%" valign="top">
+      <h4>🏢 Systems & Management</h4>
+      <ul>
+        <li><b>Systems Analysis:</b> Modeling enterprise business processes using BPMN (Bizagi), Draw.io, and Mermaid.</li>
+        <li><b>Data Engineering:</b> Designing relational (PostgreSQL, MySQL) and NoSQL (MongoDB) database architectures.</li>
+        <li><b>Security & Infrastructure:</b> Managing Linux environments, implementing network security configurations, and Cisco networking.</li>
+      </ul>
     </td>
   </tr>
 </table>
