@@ -104,12 +104,12 @@ A curated collection of technologies I work with, styled with their official bra
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=aplis101&show_icons=true&theme=gotham&hide_border=true" alt="aplis101's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=aplis101&show_icons=true&theme=gotham&hide_border=true&cache_id=2" alt="aplis101's GitHub Stats" />
       </a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aplis101&layout=compact&theme=gotham&hide_border=true" alt="aplis101's Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aplis101&layout=compact&theme=gotham&hide_border=true&cache_id=2" alt="aplis101's Top Languages" />
       </a>
     </td>
   </tr>
