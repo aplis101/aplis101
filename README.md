@@ -6,11 +6,11 @@
 
 # أهلاً بك في ملفي الشخصي! 👋
 
-أنا مطور برمجيات متكامل (Full-Stack Developer) متخصص في بناء حلول برمجية مبتكرة وعالية الأداء. لدي خلفية أكاديمية وتقنية شاملة تشمل:
-- تطوير الويب والهواتف الذكية (**Next.js**, **Flutter**).
+أنا **محلل نظم إدارية (Business Systems Analyst)** ومطور أنظمة شركات متكامل (Full-Stack Developer)، خريج تخصص **نظم المعلومات الإدارية (Management Information Systems - MIS)**. أركز على بناء حلول برمجية مبتكرة، أتمتة العمليات، وتخطيط البنية الهيكلية للمؤسسات. تشمل مهاراتي:
+- تطوير الويب وتطبيقات الهواتف الذكية (**Next.js**, **Flutter**).
 - دمج تقنيات **الذكاء الاصطناعي التوليدي** والوكلاء الأذكياء (**AI Agents**).
 - تصميم واجهات المستخدم والنمذجة ثلاثية الأبعاد (**Figma**, **SketchUp**).
-- هندسة الأنظمة وتحليلها (**BPMN** باستخدام **Bizagi**).
+- هندسة الأنظمة، نمذجة العمليات والتخطيط الهيكلي (**BPMN** باستخدام **Bizagi**، ومخططات **Draw.io**, **Mermaid**).
 - إدارة مشاريع البرمجيات والتعاون البرمجي الاحترافي عبر **GitHub** (إدارة الفروع، الدمج، الأتمتة).
 - أمن المعلومات (**Linux**، وأدوات مثل **Sqlmap**)، وشبكات الحاسوب (**Cisco**).
 - إدارة قواعد البيانات المتنوعة (**PostgreSQL**, **MySQL**, **MongoDB**).
@@ -20,6 +20,9 @@
 ---
 
 ### 🚀 About Me / نبذة عني
+- 🎓 **Management Information Systems (MIS)**: Leveraging a business-tech background to analyze enterprise requirements and develop alignment strategies.
+- 💼 **Business Systems Analysis**: Designing enterprise systems architectures, workflow automation, and mapping business processes.
+- 📊 **System Planning & Diagramming**: Designing system architectures and workflows using **Draw.io** and **Mermaid**.
 - 💻 **Full-Stack Web Development**: Building responsive apps with **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**.
 - 📱 **Mobile Development**: Creating native mobile apps with **Flutter** & **Dart** in Android Studio.
 - 🤖 **AI Engineering**: Designing and deploying **Generative AI** integrations and **AI Agents**.
@@ -27,7 +30,6 @@
 - 🐙 **Collaborative Git & GitHub**: Advanced experience with version control, repository branching/merging strategies, and workflow automation.
 - 🛡️ **Cybersecurity & Networking**: Hands-on experience with **Linux**, network auditing, and **Cisco** network configurations.
 - 📊 **Database Management**: Working with relational databases like **PostgreSQL** & **MySQL**, alongside NoSQL databases like **MongoDB**.
-- 📐 **Systems Analysis**: Modeling business processes using **BPMN** (Bizagi).
 
 ---
 
@@ -80,9 +82,11 @@ A curated collection of technologies I work with, styled with their official bra
   <img src="https://img.shields.io/badge/SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white" alt="SketchUp" />
 </p>
 
-#### **Systems Analysis & Workflows**
+#### **Systems Analysis & Diagramming**
 <p align="left">
   <img src="https://img.shields.io/badge/BPMN%20%2F%20Bizagi-7B1FA2?style=flat-square&logoColor=white" alt="BPMN" />
+  <img src="https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="Draw.io" />
+  <img src="https://img.shields.io/badge/Mermaid-008080?style=flat-square&logo=mermaid&logoColor=white" alt="Mermaid" />
 </p>
 
 #### **Development Tools & Version Control**
