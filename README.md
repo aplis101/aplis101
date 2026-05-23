@@ -9,8 +9,10 @@
 أنا مطور برمجيات متكامل (Full-Stack Developer) متخصص في بناء حلول برمجية مبتكرة وعالية الأداء. لدي خلفية أكاديمية وتقنية شاملة تشمل:
 - تطوير الويب والهواتف الذكية (**Next.js**, **Flutter**).
 - دمج تقنيات **الذكاء الاصطناعي التوليدي** والوكلاء الأذكياء (**AI Agents**).
+- تصميم واجهات المستخدم والنمذجة ثلاثية الأبعاد (**Figma**, **SketchUp**).
 - هندسة الأنظمة وتحليلها (**BPMN** باستخدام **Bizagi**).
-- أمن المعلومات (**Linux**، وأدوات اختبار الاختراق مثل **Sqlmap**)، وشبكات الحاسوب (**Cisco**).
+- إدارة مشاريع البرمجيات والتعاون البرمجي الاحترافي عبر **GitHub** (إدارة الفروع، الدمج، الأتمتة).
+- أمن المعلومات (**Linux**، وأدوات مثل **Sqlmap**)، وشبكات الحاسوب (**Cisco**).
 - إدارة قواعد البيانات المتنوعة (**PostgreSQL**, **MySQL**, **MongoDB**).
 
 </div>
@@ -21,7 +23,9 @@
 - 💻 **Full-Stack Web Development**: Building responsive apps with **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**.
 - 📱 **Mobile Development**: Creating native mobile apps with **Flutter** & **Dart** in Android Studio.
 - 🤖 **AI Engineering**: Designing and deploying **Generative AI** integrations and **AI Agents**.
-- 🛡️ **Cybersecurity & Networking**: Hands-on experience with **Linux**, network security auditing, and **Cisco** network architectures.
+- 🎨 **UI/UX & 3D Modeling**: Designing layouts in **Figma** and 3D environments in **Google SketchUp**.
+- 🐙 **Collaborative Git & GitHub**: Advanced experience with version control, repository branching/merging strategies, and workflow automation.
+- 🛡️ **Cybersecurity & Networking**: Hands-on experience with **Linux**, network auditing, and **Cisco** network configurations.
 - 📊 **Database Management**: Working with relational databases like **PostgreSQL** & **MySQL**, alongside NoSQL databases like **MongoDB**.
 - 📐 **Systems Analysis**: Modeling business processes using **BPMN** (Bizagi).
 
@@ -70,12 +74,23 @@ A curated collection of technologies I work with, styled with their official bra
   <img src="https://img.shields.io/badge/Cisco-1EA0D8?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
 </p>
 
-#### **Systems Analysis & Tools**
+#### **UI/UX Design & 3D Modeling**
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white" alt="SketchUp" />
+</p>
+
+#### **Systems Analysis & Workflows**
 <p align="left">
   <img src="https://img.shields.io/badge/BPMN%20%2F%20Bizagi-7B1FA2?style=flat-square&logoColor=white" alt="BPMN" />
+</p>
+
+#### **Development Tools & Version Control**
+<p align="left">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
