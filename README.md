@@ -1,4 +1,6 @@
-# aplis101
+# Mohammed Rashed Al-Sabahi · aplis101
+
+> Information Systems student at **Universitas Ahmad Dahlan**, Yogyakarta · Arabic · Indonesian · English
 
 ## Systems Analyst & Full-Stack Developer
 
@@ -10,7 +12,20 @@ I bridge the gap between business requirements and modern software systems. With
 
 *   **Systems Analysis & Design**: Enterprise requirement gathering, business process modeling (BPMN), and system architecture mapping (Mermaid, Draw.io) to align technology with organizational objectives.
 *   **Full-Stack Web Development**: Building responsive, scalable web applications using **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**, backed by **Supabase**, **PostgreSQL**, and **Node.js**.
+*   **IT Service & Project Management**: ITIL 4 service practices, project planning (WBS, scheduling, cost, S-curve), risk assessment, information-systems audit and software testing.
 *   **AI Systems Integration**: Leveraging Generative AI capabilities and engineering autonomous AI Agent workflows to automate business operations.
+
+---
+
+### 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [SisaPintar](https://github.com/aplis101/Moahmmed_Dania_ProyekTeknologi-Mobile-2026) | Suggests recipes from leftover ingredients with an open-source LLM to cut food waste | Flutter · LLM API |
+| [Hadith Platform](https://github.com/aplis101/hadith-platform) · [live](https://hadith-platform-pied.vercel.app) | Interactive hadith learning with student and supervisor roles | Next.js · PostgreSQL |
+| [Hadith Study](https://github.com/aplis101/Hadis-study) | Text, explanation, audio and word meanings for each hadith | Next.js · TypeScript |
+| [Event Ticketing](https://github.com/aplis101/Final-Project-Checkpoint-2-Anggota-A-B-C) · [live](https://final-project-checkpoint-2-anggota.vercel.app) | Event listings and booking flow (team project) | React · Vite |
+| [Red-Light Analysis](https://github.com/aplis101/red-light) · [live](https://red-light-black.vercel.app) | Data analysis of traffic-camera records as an interactive report | JavaScript |
 
 ---
 
@@ -44,6 +59,12 @@ I bridge the gap between business requirements and modern software systems. With
 
 *   **UI/UX & 3D Modeling**:
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white" alt="SketchUp" />
+
+---
+
+### 📫 Contact
+
+<a href="mailto:junehistory744@gmail.com"><img src="https://img.shields.io/badge/Email-junehistory744%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
 ---
 
